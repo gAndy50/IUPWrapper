@@ -16,9 +16,9 @@ include iupdef.e --iup definitions
 public constant IUP_NAME = "IUP - Portable User Interface"
 public constant IUP_DESCRIPTION = "Multi-platform Toolkit for Building Graphical User Interfaces"
 public constant IUP_COPYRIGHT = "Copyright (c) 1994-2020 Tecgraf/PUC-Rio"
-public constant IUP_VERSION = "3.30"
-public constant IUP_VERSION_NUMBER = 330000
-public constant IUP_VERSION_DATE = "2020/07/30"
+public constant IUP_VERSION = "3.29"
+public constant IUP_VERSION_NUMBER = 329000
+public constant IUP_VERSION_DATE = "2020/05/18"
 
 --OS Check
 ifdef WINDOWS then
@@ -1376,3 +1376,4 @@ public constant IUP_PRIMARY = -1,
 				IUP_SECONDARY = -2
 				
 public enum IUP_RECBINARY = 0, IUP_RECTEXT
+­21.46
