@@ -2,6 +2,8 @@
 
 This is a wrapper for IUP library for the OpenEuphoria programming language. The IUP functions have been wrapped to match the C library as closely as possible. While also being Euphoria friendly as well. Some examples are included to show off the wrapper. 
 
+Note: Current wrapper is based off of IUP version 3.29 due to a bug in IUP 3.3.0
+
 # LICENSE (ZLIB)
 
 Copyright (c) <2023> <Andy P., Icy_Viking Games>
